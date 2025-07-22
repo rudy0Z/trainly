@@ -108,8 +108,6 @@ The app follows a clean architecture pattern with the following structure:
 - *"I couldn't workout yesterday, can you move it to today?"*
 - *"Remove squats from my Monday workout - my knee hurts"*
 - *"What's my workout plan for this week?"*
-- *"I want to focus more on cardio, can you adjust my plan?"*
-
 
 ## 🚀 Future Roadmap
 
