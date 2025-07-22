@@ -27,9 +27,9 @@ Trainly is a revolutionary AI-powered fitness companion that transforms how you 
 
 ## **Preview**
 
-<img width="276" height="687" alt="Screenshot 2025-07-21 0035552" src="https://github.com/user-attachments/assets/430602d2-25f3-4001-abec-47e620703f2c" />
-<img width="281" height="688" alt="Screenshot 2025-07-21 003610" src="https://github.com/user-attachments/assets/40fb6b56-7ee0-4f4d-b88d-f7faae3ff5e1" />
-<img width="289" height="693" alt="Screenshot 2025-07-21 003710" src="https://github.com/user-attachments/assets/36360c2b-93d2-48ea-8e9c-96ccf53d5242" />
+<img width="180" height="387" alt="Screenshot 2025-07-21 0035552" src="https://github.com/user-attachments/assets/430602d2-25f3-4001-abec-47e620703f2c" />
+<img width="180" height="387" alt="Screenshot 2025-07-21 003610" src="https://github.com/user-attachments/assets/40fb6b56-7ee0-4f4d-b88d-f7faae3ff5e1" />
+<img width="180" height="387" alt="Screenshot 2025-07-21 003710" src="https://github.com/user-attachments/assets/36360c2b-93d2-48ea-8e9c-96ccf53d5242" />
 
 ## 🎯 Perfect For
 
