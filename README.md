@@ -128,10 +128,3 @@ The app follows a clean architecture pattern with the following structure:
 - **Social Features**: Share achievements and compete with friends
 - **Advanced Personalization**: Machine learning for truly adaptive workouts
 
-
-
-<div align="center">
-  <strong>Made with ❤️ for the fitness community</strong>
-  <br/>
-  <em>Transform your fitness journey with AI-powered personal training</em>
-</div>
